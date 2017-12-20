@@ -142,7 +142,7 @@ ifeq ($(ARCH), win)
 	cp dep/bin/libcurl-4.dll dist/Rack/
 	cp dep/bin/libjansson-4.dll dist/Rack/
 	cp dep/bin/librtmidi-4.dll dist/Rack/
-	cp dep/bin/libspeexdsp.dll dist/Rack/
+	cp dep/bin/libspeexdsp-1.dll dist/Rack/
 	cp dep/bin/libzip-5.dll dist/Rack/
 	cp dep/bin/librtaudio.dll dist/Rack/
 	cp dep/bin/libcrypto-1_1-x64.dll dist/Rack/
